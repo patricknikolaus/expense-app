@@ -13,3 +13,24 @@ body {
   background-color: #3f3f3f;
 }
 
+.header {
+  padding: 40px;
+  text-align: center;
+  background: #000000;
+  color: white;
+  font-size: 30px;
+  margin: 0;
+  top: 0;
+}
+
+header {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  height: 110px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  background-color: #a43131;
+  z-index: 99;
+}
